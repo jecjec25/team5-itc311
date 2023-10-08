@@ -1,2 +1,19 @@
-# team5-itc311
-Team 5: Christia Dela Chica, Jennifer Ramirez, Kyle Curba
+# pwaappdev
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
