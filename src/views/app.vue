@@ -4,8 +4,6 @@
       <p>
         hi
       </p>
-     
-
     </v-container>
   </template>
   
